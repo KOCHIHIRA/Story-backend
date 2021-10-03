@@ -14,9 +14,10 @@
 ## データベース
 - データベースはMySQLを使用しました。
 ### DataBaseの構成
-- DataBase名: STORY
-
-- Table名
+DataBase名: STORY
+***
+Table名
+***
 
 ## アプリのバックエンド開発で苦労した点
 GO言語も初めて触ったので、少し苦労しました。
