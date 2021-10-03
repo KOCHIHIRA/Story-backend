@@ -15,7 +15,7 @@
 - データベースはMySQLを使用しました。
 ### DataBaseの構成
 - DataBase名: STORY
-(空白行)
+
 - Table名
 
 ## アプリのバックエンド開発で苦労した点
