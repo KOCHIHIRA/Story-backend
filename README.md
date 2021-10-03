@@ -27,12 +27,23 @@ Table名<br >
 |mail|varchar(256)|YES||NULL|
 
 - ROOM<br >
+
 |Field|Type|Null|Key|Default|Extra|
 |:--------|:---------|:--------|:-------|:-------|:-------|
 |room_name|varchar(20)|NO|PRI|NULL|
 |title|varchar(15)|NO||NULL|
 |create_user|varchar(15)|NO||NULL|
 |create_day|datetime|YES||NULL|
+
+- TALKED<br >
+
+|Field|Type|Null|Key|Default|Extra|
+|:--------|:---------|:--------|:-------|:-------|:-------|
+|room_name|varchar(20)|NO|MUL|NULL|
+|user_name|varchar(15)|NO|MUL|NULL|
+|talk_word|varchar(30)|NO||NULL|
+|talked_time|datetime|NO||NULL|
+
 ***
 
 ## アプリのバックエンド開発で苦労した点
