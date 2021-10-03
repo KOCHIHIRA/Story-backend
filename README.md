@@ -12,8 +12,7 @@
 - 投票機能
 
 ## データベース
-- データベースはMySQLを使用しました。
-<br >
+- データベースはMySQLを使用しました。<br >
 DataBase名: STORY <br >
 eg
 
