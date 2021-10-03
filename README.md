@@ -20,7 +20,7 @@ DataBase名<br >
 Table名<br >
 - USER<br >
 |Field|Type|Null|Key|Default|Extra|
-|:---|:---|:---|:---|:---|:---|
+|:--------|:---------|:--------|:-------|:-------|:-------|
 |name|varchar(15)|NO|PRI|NULL||
 ***
 
