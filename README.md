@@ -14,9 +14,14 @@
 ## データベース
 - データベースはMySQLを使用しました。
 ### DataBaseの構成
-DataBase名: STORY
+DataBase名<br >
+- STORY
 ***
-Table名
+Table名<br >
+- USER
+|Field|Type|Null|Key|Default|Extra|
+|:---|:---|:---|:---|:---|:---|
+|name|varchar(15)|NO|PRI|NULL||
 ***
 
 ## アプリのバックエンド開発で苦労した点
