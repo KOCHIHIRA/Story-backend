@@ -31,7 +31,7 @@ Table名<br >
 |Field|Type|Null|Key|Default|Extra|
 |:--------|:---------|:--------|:-------|:-------|:-------|
 |room_name|varchar(20)|NO|PRI|NULL|
-|title|varchar(15)|NO||NULL|
+|title|varchar(20)|NO||NULL|
 |create_user|varchar(15)|NO||NULL|
 |create_day|datetime|YES||NULL|
 
@@ -43,6 +43,13 @@ Table名<br >
 |user_name|varchar(15)|NO|MUL|NULL|
 |talk_word|varchar(30)|NO||NULL|
 |talked_time|datetime|NO||NULL|
+
+- VOTING<br >
+
+|Field|Type|Null|Key|Default|Extra|
+|:--------|:---------|:--------|:-------|:-------|:-------|
+|room_name|varchar(20)|NO|MUL|NULL|
+|user_name|varchar(15)|NO|MUL|NULL|
 
 ***
 
