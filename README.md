@@ -27,7 +27,6 @@ Table名<br >
 |mail|varchar(256)|YES||NULL|
 
 - ROOM<br >
-
 |Field|Type|Null|Key|Default|Extra|
 |:--------|:---------|:--------|:-------|:-------|:-------|
 |room_name|varchar(20)|NO|PRI|NULL|
