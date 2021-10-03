@@ -26,7 +26,14 @@ Table名<br >
 |password|varchar(32)|YES||NULL|
 |mail|varchar(256)|YES||NULL|
 
+- ROOM<br >
 
+|Field|Type|Null|Key|Default|Extra|
+|:--------|:---------|:--------|:-------|:-------|:-------|
+|room_name|varchar(20)|NO|PRI|NULL|
+|title|varchar(15)|NO||NULL|
+|create_user|varchar(15)|NO||NULL|
+|create_day|datetime|YES||NULL|
 ***
 
 ## アプリのバックエンド開発で苦労した点
