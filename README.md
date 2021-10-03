@@ -12,9 +12,11 @@
 - 投票機能
 
 ## データベース
-- データベースはMySQLを使用しました。<br >
-DataBase名: STORY <br >
-eg
+- データベースはMySQLを使用しました。
+### DataBaseの構成
+- DataBase名: STORY
+(空白行)
+- Table名
 
 ## アプリのバックエンド開発で苦労した点
 GO言語も初めて触ったので、少し苦労しました。
