@@ -14,7 +14,7 @@
 ## データベース
 - データベースはMySQLを使用しました。
 <br >
-DataBase名: STORY
+DataBase名: STORY <br >
 eg
 
 ## アプリのバックエンド開発で苦労した点
