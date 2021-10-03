@@ -19,10 +19,6 @@ DataBase名<br >
 ***
 Table名<br >
 - USER<br >
-- | TH1 | TH2 |
-----|---- 
-| TD1 | TD3 |
-| TD2 | TD4 |
 
 |Field|Type|Null|Key|Default|Extra|
 |:--------|:---------|:--------|:-------|:-------|:-------|
