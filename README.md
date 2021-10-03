@@ -24,6 +24,7 @@ Table名<br >
 |:--------|:---------|:--------|:-------|:-------|:-------|
 |name|varchar(15)|NO|PRI|NULL|
 |password|varchar(32)|YES||NULL|
+|mail|varchar(256)|YES||NULL|
 ***
 
 ## アプリのバックエンド開発で苦労した点
