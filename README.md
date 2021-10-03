@@ -23,6 +23,7 @@ Table名<br >
 |Field|Type|Null|Key|Default|Extra|
 |:--------|:---------|:--------|:-------|:-------|:-------|
 |name|varchar(15)|NO|PRI|NULL|
+|password|varchar(32)|YES||NULL|
 ***
 
 ## アプリのバックエンド開発で苦労した点
